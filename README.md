@@ -3,6 +3,7 @@
 ## 效果预览
 
 <img src=https://github.com/Palardin3/MultiTypeCompose/blob/main/preview.png width=40% />
+
 ## 如何使用
 
 - 实现接口：
