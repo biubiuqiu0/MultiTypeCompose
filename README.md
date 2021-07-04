@@ -1,8 +1,8 @@
 # MultiTypeCompose
 简化Jetpack Compose 长列表构建 
 ## 效果预览
-![预览图](https://github.com/Palardin3/MultiTypeCompose/blob/main/preview.png)
 
+<img src=https://github.com/Palardin3/MultiTypeCompose/blob/main/preview.png width=40% />
 ## 如何使用
 
 - 实现接口：
