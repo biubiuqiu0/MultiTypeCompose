@@ -1,0 +1,4 @@
+com.castledrv.multitype_compose.ui.home.CoverComposable
+com.castledrv.multitype_compose.ui.home.HomeBannerComposable
+com.castledrv.multitype_compose.ui.home.MultiImageComposable
+com.castledrv.multitype_compose.ui.home.VideoComposable

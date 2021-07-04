@@ -10,13 +10,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true">
-<!--        <activity-->
-<!--            android:name="com.castledrv.multitype_compose.MainActivity"-->
-<!--            android:exported="true"-->
-<!--            android:label="@string/app_name"-->
-<!--            android:theme="@style/Theme.ManageShowCaseCompose.NoActionBar">-->
+        <activity
+            android:name="com.castledrv.multitype_compose.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ManageShowCaseCompose.NoActionBar">
 
-<!--        </activity>-->
+        </activity>
         <activity android:name=".SPIActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

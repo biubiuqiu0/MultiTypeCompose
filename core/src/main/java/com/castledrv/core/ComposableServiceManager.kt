@@ -36,7 +36,6 @@ object ComposableServiceManager {
 
     fun collectServices() {
         ServiceLoader.load(IComposableService::class.java).forEach { service ->
-            Log.d("ComposableService", service.type+"  register")
             composableMap[service.type] = service
         }
     }
